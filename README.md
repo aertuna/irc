@@ -23,6 +23,7 @@ It allows multiple clients to connect simultaneously, create and join channels, 
 
 ## ⚙️ Project Structure
 
+```
 ircserv/
 ├── Makefile
 ├── main.cpp
@@ -31,7 +32,7 @@ ircserv/
 ├── Channel.cpp / Channel.hpp
 ├── Commands.cpp / Commands.hpp
 └── .vscode/ (optional IDE configuration)
-
+```
 
 ## 🏗️ Compilation
 
